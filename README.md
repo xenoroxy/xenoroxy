@@ -1,7 +1,7 @@
 # Hi! I'm Rena :)
 I am currently in my second year at Ngee Ann Polytechnic, pursuing a diploma in Information Technology (IT). I am passionate in web development and have a growing interest in game development and 3D animation. 
 
-I hope that I can futher develop my skills and knowledge in web development so that I can make a greater impact onto society! Take a look at some of my more recent projects: 
+I hope that I can futher develop my skills and knowledge in web development by working on different projects! Take a look at some of my more recent projects: 
 
 ## My Projects
 1. Web development
