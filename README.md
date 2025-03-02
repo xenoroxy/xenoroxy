@@ -6,7 +6,7 @@ I hope that I can futher develop my skills and knowledge in web development by w
 ## My Projects
 1. Web development
     - [WisdomNet](https://github.com/xenoroxy/FSDPWisdomNet) : Website that implemented changes to improve OCBC's customer enquiry experience
-    - [SustainableMe](https://github.com/xenoroxy/BED2024Apr_P01_S10258053C) : Website to promote environmental sustainability by encouraging users to track their logs and gain rewards!
+    - [SustainableMe](https://github.com/mellamadrama/BED_Assignment_2024) : Website to promote environmental sustainability by encouraging users to track their logs and gain rewards!
     - [Pottery Works](https://github.com/xenoroxy/FED_S10258053_Rena_Assig01) : A fictional website to promote pottery products and pottery classes. 
 
 3. App development
